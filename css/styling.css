@@ -1,0 +1,19 @@
+ul {
+  display: inline-flex;
+  border: black;
+  list-style-type: none;
+}
+
+li {
+  padding: 2%;
+  color: black;
+}
+.gpage {
+  padding: 0.5%;
+  display: inline-block;
+}
+.title {
+  padding: 0.5%;
+  padding-left: 1%;
+  display: block;
+}
